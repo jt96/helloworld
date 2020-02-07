@@ -17,6 +17,6 @@ You can create your own security group to be more secure or use the default one 
 
 After launching, the Hello World! web app should be all set!
 
-[image.png](https://postimg.cc/tnqy39fH)
+[![image.png](https://i.postimg.cc/90TMjMYz/image.png)](https://postimg.cc/tnqy39fH)
 
 You can ssh into the instance and verify that the index.html file was created and contains the html code you wrote to it.
