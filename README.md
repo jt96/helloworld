@@ -18,6 +18,7 @@ You can create your own security group to be more secure or use the default one 
 
 
 [![image.png](https://i.postimg.cc/MKVcCs9t/image.png)](https://postimg.cc/RNCVfT5n)
+
 After launching, the Hello World! web app should be all set!
 
 
